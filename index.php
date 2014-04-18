@@ -254,12 +254,12 @@
 									<article class="item">
 										<a href="images/comp1.png" class="image full fancybox"><img src="images/comp1.png" alt="" /></a>
 										<header>
-										<h3><strong>279 Lexington Ave</strong></h3>
+										<h3><strong>22775 Fruitvale Ave</strong></h3>
 										<ul>
 											<li>2 Bed - 1 Bath</li>
-											<li>1,119 Sq Ft -  5,100 Lot</li>
-											<li>List: 12/7/13 - Sold: 1/2/14</li>
-											<li>List: $397,000 - SOLD $415,000</li>
+											<li>1,098 Sq Ft -  3,800 Lot</li>
+											<li>List: 1/18/14 - Sold: 1/31/14</li>
+											<li>List: $269,000 - SOLD $269,000</li>
 										</ul>
 									</article>
 								</div>
@@ -267,12 +267,12 @@
 									<article class="item">
 										<a href="images/comp2.png" class="image full fancybox"><img src="images/comp2.png" alt="" /></a>
 										<header>
-										<h3><strong>171 Suffolk Dr </strong></h3>
+										<h3><strong>1749 23rd Ave</strong></h3>
 										<ul>
-											<li>2 Bed - 1 Bath</li>
-											<li>1,282 Sq Ft - 5,100 Lot</li>
-											<li>List: 11/8/13 - Sold: 12/16/13</li>
-											<li>List: $349,000 - SOLD $390,000</li>
+											<li>3 Bed - 1.5 Bath</li>
+											<li>1,062 Sq Ft - 7,200 Lot</li>
+											<li>List: 11/7/13 - Sold: 12/16/13</li>
+											<li>List: $265,000 - SOLD $245,000</li>
 										</ul>
 									</article>
 								</div>
@@ -280,12 +280,12 @@
 									<article class="item">
 										<a href="images/comp3.png" class="image full fancybox"><img src="images/comp3.png" alt="" /></a>
 										<header>
-										<h3><strong>264 Best Ave</strong></h3>
+										<h3><strong>2125 27th Ave</strong></h3>
 										<ul>
 											<li>2 Bed - 1 Bath</li>
-											<li>1,224 Sq Ft - 5,040 Lot</li>
-											<li>List: 1/29/14 - Sold: 2/12/14</li>
-											<li>List: $349,900 - SOLD $375,000</li>
+											<li>1,083 Sq Ft - 3,800 Lot</li>
+											<li>List: 3/20/14 - Sold: 3/29/14</li>
+											<li>List: $249,900 - SOLD $243,000</li>
 										</ul>
 									</article>
 								</div>
