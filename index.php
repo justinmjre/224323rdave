@@ -254,7 +254,7 @@
 									<article class="item">
 										<a href="images/comp1.png" class="image full fancybox"><img src="images/comp1.png" alt="" /></a>
 										<header>
-										<h3><strong>22775 Fruitvale Ave</strong></h3>
+										<h3><strong>2775 Fruitvale Ave</strong></h3>
 										<ul>
 											<li>2 Bed - 1 Bath</li>
 											<li>1,098 Sq Ft -  3,800 Lot</li>
