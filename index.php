@@ -252,7 +252,7 @@
 							<div class="row">
 								<div class="4u">
 									<article class="item">
-										<a href="images/comp1.jpg" class="image full fancybox"><img src="images/comp1.jpg" alt="" /></a>
+										<a href="images/comp1.png" class="image full fancybox"><img src="images/comp1.png" alt="" /></a>
 										<header>
 										<h3><strong>279 Lexington Ave</strong></h3>
 										<ul>
@@ -265,7 +265,7 @@
 								</div>
 								<div class="4u">
 									<article class="item">
-										<a href="images/comp2.jpg" class="image full fancybox"><img src="images/comp2.jpg" alt="" /></a>
+										<a href="images/comp2.png" class="image full fancybox"><img src="images/comp2.png" alt="" /></a>
 										<header>
 										<h3><strong>171 Suffolk Dr </strong></h3>
 										<ul>
@@ -278,7 +278,7 @@
 								</div>
 								<div class="4u">
 									<article class="item">
-										<a href="images/comp3.jpg" class="image full fancybox"><img src="images/comp3.jpg" alt="" /></a>
+										<a href="images/comp3.png" class="image full fancybox"><img src="images/comp3.png" alt="" /></a>
 										<header>
 										<h3><strong>264 Best Ave</strong></h3>
 										<ul>
